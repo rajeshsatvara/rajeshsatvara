@@ -31,5 +31,5 @@ Reach out to me at...
 <img align="right" height="135px" src="https://github-readme-stats.vercel.app/api?username=rjzsatvara007&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=default" />
 
   <a href="https://github.com/rjzsatvara007">
-    <img align="left"  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rjzsatvara007&theme=default" />
+    <img align="left"  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rjzsatvara007&theme=default" />
  </a>
