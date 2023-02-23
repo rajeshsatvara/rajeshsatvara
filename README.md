@@ -25,7 +25,7 @@ Reach out to me at...
   <img align="left" alt="Rajesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><a href="https://stackoverflow.com/users/5155422/rajesh-satvara">
   <img align="left" alt="Rajesh's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-
+  </a>
   <br/>
   <br/>
 <img align="right" height="110px" src="https://github-readme-stats.vercel.app/api?username=rajeshsatvara&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=default" />
