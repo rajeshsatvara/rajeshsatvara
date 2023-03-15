@@ -7,7 +7,7 @@ Ask me anything about :
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/>
 <br/>
 <a href="https://github.com/rajeshsatvara">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsatvara&theme=light&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsatvara" />
 </a>
 
 
@@ -28,8 +28,6 @@ Reach out to me at...
   </a>
   <br/>
   <br/>
-<img align="right" height="110px" src="https://github-readme-stats.vercel.app/api?username=rajeshsatvara&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=default" />
-
   <a href="https://github.com/rajeshsatvara">
     <img align="left"  width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshsatvara&theme=default" />
  </a>
